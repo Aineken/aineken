@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayan Zh
 ===============================================================================================================================
 
-Frontend Developer (React & JavaScript)
+Data Engineer & Software Developer.
 ---------------------------------------
 
 I am working as Frontend Developer using tools such as React, REDUX toolkit (FLUX architecture), Styled Components and many other helpful tools. As well as doing Backend jobs such as creating servers using ExpressJS and MongoDB.
 
 * 🌍  I'm based in Warsaw, Poland
 * 🖥️  See my portfolio at [My Portfolio](http://andrzul.online/)
-* ✉️  You can contact me at [aineken93@gmail.com](mailto:aineken93@gmail.com)
-* 🧠  I'm learning NextJS using TypeScript,Apollo, GraphQL and others
+* ✉️  You can contact me at [admin@andrzul.online](mailto:admin@andrzul.online)
 * 🤝  I'm open to collaborating on interesting projects including full/part time jobs.
 * ⚡  "Never Quit on your Dreams"
 
