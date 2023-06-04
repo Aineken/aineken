@@ -8,7 +8,7 @@ I am working as Frontend Developer using tools such as React, REDUX toolkit (FLU
 
 * 🌍  I'm based in Warsaw, Poland
 * 🖥️  See my portfolio at [My Portfolio](http://andrzul.online/)
-* ✉️  You can contact me at [admin@andrzul.online](mailto:admin@andrzul.online)
+* ✉️  You can contact me at [aineken93@gmail.com](mailto:aineken93@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects including full/part time jobs.
 * ⚡  "Never Quit on your Dreams"
 
