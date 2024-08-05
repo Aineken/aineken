@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayan Zh
 ===============================================================================================================================
 
-Data Engineer & Software Developer.
+Data Analyst & Software Developer.
 ---------------------------------------
 
 I am working as Frontend Developer using tools such as React, REDUX toolkit (FLUX architecture), Styled Components and many other helpful tools. As well as doing Backend jobs such as creating servers using ExpressJS and MongoDB.
