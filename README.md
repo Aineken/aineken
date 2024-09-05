@@ -1,19 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayan Zh
 ===============================================================================================================================
 
-Data Analyst & Software Developer.
+Data Analyst & Engineer.
 ---------------------------------------
 
-I am working as Frontend Developer using tools such as React, REDUX toolkit (FLUX architecture), Styled Components and many other helpful tools. As well as doing Backend jobs such as creating servers using ExpressJS and MongoDB.
+I am a Data Analyst and Engineer, specializing in building data pipelines, ETL processes, and ensuring data quality. I work with tools like Python, SQL, PostgreSQL, Cassandra and MongoDB, and AWS to create scalable data solutions, and use platforms like Tableau for data visualization and analysis.
 
 * 🌍  I'm based in Warsaw, Poland
-* 🖥️  See my portfolio at [My Portfolio](http://andrzul.online/)
 * ✉️  You can contact me at [aineken93@gmail.com](mailto:aineken93@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects including full/part time jobs.
 * ⚡  "Never Quit on your Dreams"
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
